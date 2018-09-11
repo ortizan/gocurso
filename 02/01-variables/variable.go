@@ -7,4 +7,3 @@ func main() {
 	nombre, edad := "Alfredo", 20
 	fmt.Println("Hola", nombre, apellido, edad)
 }
-
